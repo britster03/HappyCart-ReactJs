@@ -79,7 +79,7 @@ Subtotal.js displays the subtotal of the user's shopping basket, including the i
 
 ## Deployment
 
-Deployed using Vercel : ``` https://happy-cart-react-js.vercel.app/ ```
+Deployed using Vercel : https://happy-cart-react-js.vercel.app/ 
 
 ## Important Note
 Ensure that you have set up the Firebase project and configured the necessary API keys in firebase.js for authentication and Firestore.
